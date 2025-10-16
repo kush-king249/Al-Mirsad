@@ -1,6 +1,5 @@
 # Al-Mirsad (المرصاد) - أداة أتمتة الاستجابة للحوادث الأمنية
 
-![Al-Mirsad Logo](docs/al-mirsad-logo.png)
 
 ## نظرة عامة
 
@@ -150,7 +149,7 @@ python3 src/gui/main_gui.py
 
 ## المساهمون
 
-*   **المؤلف:** Hassan Mohamed Hassan Ahmed
+*   **صنع بفخر بواسطة:** Hassan Mohamed Hassan Ahmed
 *   **GitHub:** [kush-king249](https://github.com/kush-king249)
 
 ## الترخيص
